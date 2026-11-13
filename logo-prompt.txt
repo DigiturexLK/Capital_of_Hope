@@ -1,0 +1,3 @@
+Tool: built-in image_gen
+Prompt: Create a transparent PNG logo for Capital of Hope SL with a geometric upward-reaching figure and flower/sunburst, plum #900458, pale pink #f0c2dc, dark plum #21151e. Exact lettering: CAPITAL OF HOPE; SRI LANKA · KOTTE. Refine to flat opaque shapes with crisp edges and no glow, haze, shadow, gradients or background.
+v2 — Built-in image_gen edit: Replace the dot separator with a hyphen. Subtitle exactly: SRI LANKA - KOTTE. Preserve the remaining logo and transparency.
